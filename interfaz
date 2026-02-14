@@ -1,3 +1,11 @@
 # ejecutar desde cmd o powershell como administrador
 
 control keymgr.dll
+
+o
+
+rundll32.exe keymgr.dll, KRShowKeyMgr
+
+abre
+
+La ventana "Nombres de usuario y contraseñas almacenados", que permite añadir, editar y eliminar credenciales.
