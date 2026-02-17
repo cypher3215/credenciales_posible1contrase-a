@@ -1,1 +1,3 @@
+net users
+
 net localgroup Administradores Usuario /add
